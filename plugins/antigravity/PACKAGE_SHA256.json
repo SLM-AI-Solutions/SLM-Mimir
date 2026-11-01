@@ -1,0 +1,165 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": "BUILD.json",
+      "sha256": "4fc7e99382ed70b42e78da130254feb8aa609ac355b942c70e22e6b481385a39"
+    },
+    {
+      "path": "BUILD_HISTORY.json",
+      "sha256": "1286b8e8b2ed077b31dac91472394089ba2367ddbd7015c2bf01ca4a0a6b35ad"
+    },
+    {
+      "path": "INSTALL.txt",
+      "sha256": "d8f5a36ee7a6d22db4de16d2183e3d48439dc101f57dea488b533bf42d796ffc"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "bfd40b179e6179299f1e11ee0bf14d4bb9172aea98bdfed8e19a1ece1faaa43b"
+    },
+    {
+      "path": "PROTECTION_NOTICE.txt",
+      "sha256": "d78a0cd814088984ed725c4e90ca9f1981dd9024a524b81d40c363ebf356bdd4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "d8f5a36ee7a6d22db4de16d2183e3d48439dc101f57dea488b533bf42d796ffc"
+    },
+    {
+      "path": "REQUIREMENTS.md",
+      "sha256": "72b24a1b7ab6f7bce5dbe17f5e9a44fd532dcd68f932748109d0185853225a27"
+    },
+    {
+      "path": "SLM_MIMIR_HOST.json",
+      "sha256": "23c88ec3c25ba389bef2c83c908631154eaba43f7e325de2b47a7d683a97ab27"
+    },
+    {
+      "path": "START_HERE.txt",
+      "sha256": "d8f5a36ee7a6d22db4de16d2183e3d48439dc101f57dea488b533bf42d796ffc"
+    },
+    {
+      "path": "agents/slm-mimir-auditor.md",
+      "sha256": "12f1ee7263e25cb62d4a3845843114eab0ee7b492db98409bbb3db67e82c7614"
+    },
+    {
+      "path": "agents/slm-mimir-engineering.md",
+      "sha256": "ddd2ad5bb0d81e5516ca647b112078cf9ed370429fc6851a3b8119319da9f769"
+    },
+    {
+      "path": "agents/slm-mimir-mathematics.md",
+      "sha256": "9736673fdc054c7e1e57a41a9461c17dd83a77d5a14b5dad07d0d387535181e6"
+    },
+    {
+      "path": "agents/slm-mimir-optimiser.md",
+      "sha256": "0e6a682ac85087c8464d6a34ad039120681cadcc498ef683ad4cfb6842ea6f7b"
+    },
+    {
+      "path": "agents/slm-mimir-redteam.md",
+      "sha256": "b66410bbdaae769a7b111acdcfd2932f21053950ded9eca86b6064ec56e0f38c"
+    },
+    {
+      "path": "agents/slm-mimir-strategist.md",
+      "sha256": "31d3edc5a6a71e9e4a2eac1a166978034c8f50539335f7c96087750b016211bc"
+    },
+    {
+      "path": "agents/slm-mimir-verification.md",
+      "sha256": "caa4ff743b657e82bebf02fad34e3843156b40c536e78d01103fafeda76945ad"
+    },
+    {
+      "path": "plugin.json",
+      "sha256": "0e5da286e722f477fd7282861de1d997bc36cfef7126f75dbb38509f52db5702"
+    },
+    {
+      "path": "skills/slm-mimir/SKILL.md",
+      "sha256": "636a0edc063e1e198db1a7c5703e5fde2700a79fd8fbd54e38a24738051313b2"
+    },
+    {
+      "path": "skills/slm-mimir/agents/openai.yaml",
+      "sha256": "d293523c74f5b04b21d9108786e0b38e8f97b7b82674206a9ef3faf67c61b379"
+    },
+    {
+      "path": "skills/slm-mimir/references/host-adapter.md",
+      "sha256": "a809b17574ef2cfeef961f4ade4689eb1519c914c9f0a0439c30d4b2187003b7"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/auditor.md",
+      "sha256": "ff35f94e6a952914e516ba0716e71264f57a649119cf0bb8c59e89ab0b294cda"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/engineering.md",
+      "sha256": "2ca06694461ec3ca6c8b77d4a691fb85db41179149e227e0776ddb85f93ffdba"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/mathematics.md",
+      "sha256": "9c2f56cea04a8f565e88f65ccf00bc9629c6ccd49bc4a0a2604b062347bfaaef"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/optimiser.md",
+      "sha256": "874083786a3ada1653150e4002a3c7c7f0098420c9277cf255ec56959af851ce"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/redteam.md",
+      "sha256": "4253a4dd4215c4965bbf0f50f709d06000c91af5becc360c7429a627b1112bdf"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/strategist.md",
+      "sha256": "a559f01bdfaf8757b0ff2ad5b01fdd715441d8371db6646f9077b67664d7104b"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/verification.md",
+      "sha256": "f852fcbbbb0cf5043337d052089f69f351bd138cb731665dbafb46853dacdf12"
+    },
+    {
+      "path": "skills/slm-mimir/references/workflow.md",
+      "sha256": "cc0a911b9551e17ffa7d3acc00396fa36fde89ce63f5e37019f318625854ae3e"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/2fbecac1c5e41594a672.bin",
+      "sha256": "098eb27af3811f6357acf874f25687070e9bf4361283bc8ffb694396650ca838"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/8df67c578ec31cd3c7d7.bin",
+      "sha256": "91c45006ae11d8349e714ade548f784d006c3d63a14b55e68332e7ad0eade1ab"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/c4fdabeea6d268b64e4e.bin",
+      "sha256": "c6c8a5ec4d01f7eb9675fb1666a840da5bea5c1d473af12100b5624a1f5acc51"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/db49b6ba8ae20eaab0e9.bin",
+      "sha256": "efb900e6a6f84da18e1b53051f44581df095a83e4d8ddc32d344fed94eaf8029"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/ff07947663a40d871dec.bin",
+      "sha256": "d8871458293f91a8a76ae5b77d689915b1555e69f1c525a57655c734272bd9fe"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/runtime.mjs",
+      "sha256": "73c36b4e4b9c5e54a00e97684dd860f303ca05c6075991185fff9cce64e79a51"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/access.mjs",
+      "sha256": "287b0616528210e829bd645b03a1af2b1c53dad028f72c014162259c72e58a97"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/build.mjs",
+      "sha256": "207a01e43319da9986011bcf240e4ef646f159437658cb8e32d75e170f22d2b8"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/evidence.mjs",
+      "sha256": "3a8703b1e8a2fdeda06202966ebb35f443387e6fe17f39c71ec90e838a2d3120"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/license-config.json",
+      "sha256": "7b67f714b35bb1867d4ff09b65073c434a2c6b0914aad73270576e3aa646ca1d"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/license.mjs",
+      "sha256": "eb3afe0c8058fb841961b04ede64b1ab8ba64841d9b57f05a5f6114df9df9dc9"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/preflight.mjs",
+      "sha256": "f21b3ae3d99cffeea8e9a3ba188cf7108874d37df688c45e9aa9d1e448a4866b"
+    }
+  ]
+}

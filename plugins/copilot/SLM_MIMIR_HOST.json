@@ -1,0 +1,31 @@
+{
+  "host": "copilot",
+  "surfaces": "GitHub Copilot CLI and VS Code compatible agent harnesses",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [
+    "com.github.copilot/agents/slm-mimir-engineering.agent.md",
+    "com.github.copilot/agents/slm-mimir-mathematics.agent.md",
+    "com.github.copilot/agents/slm-mimir-auditor.agent.md",
+    "com.github.copilot/agents/slm-mimir-redteam.agent.md",
+    "com.github.copilot/agents/slm-mimir-optimiser.agent.md",
+    "com.github.copilot/agents/slm-mimir-verification.agent.md",
+    "com.github.copilot/agents/slm-mimir-strategist.agent.md"
+  ],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-plugin-reference",
+    "https://code.visualstudio.com/docs/agents/reference/agent-plugin-reference",
+    "https://code.visualstudio.com/docs/agent-customization/agent-plugins"
+  ]
+}

@@ -1,0 +1,7 @@
+# Perplexity Computer native Skill integration
+
+Install this as a Computer custom Skill: Skills -> Create skill -> Upload a skill. The ZIP has SKILL.md at its root, below the documented 10 MB limit. This is Computer, not ordinary Perplexity Chat. The host supplies its own native isolated subagents; the package supplies the seven Mimir role contracts. It does not pretend that root agent Markdown files register Perplexity profiles.
+
+When invoked, resolve the bundled skills/slm-mimir/SKILL.md from the installed Skill's actual resource directory. Use the Computer host's exposed genuine delegation mechanism, sequentially passing one role contract, candidate and previous handoffs per child. Verify actual distinct execution identities/activity. If that capability is not exposed in the current account/session, stop with the gap; never simulate the seven roles. Follow the host's selected model/routing policy and usage permissions; Mimir must not override them.
+
+Node.js 20+ and authorised filesystem/command access are required by the helper. Save evidence in the customer's workspace, not the installed Skill. Seven passes completes the task; repair only real findings. No artificial failures or mandatory recovery exercises. No Mimir account, payment service or provider key is added. This package has not been run on Computer; only documentation and non-model format validation are permitted by the owner.

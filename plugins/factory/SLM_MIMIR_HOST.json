@@ -1,0 +1,30 @@
+{
+  "host": "factory",
+  "surfaces": "Factory Droid",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [
+    "droids/slm-mimir-engineering.md",
+    "droids/slm-mimir-mathematics.md",
+    "droids/slm-mimir-auditor.md",
+    "droids/slm-mimir-redteam.md",
+    "droids/slm-mimir-optimiser.md",
+    "droids/slm-mimir-verification.md",
+    "droids/slm-mimir-strategist.md"
+  ],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://docs.factory.com/harness/plugins",
+    "https://docs.factory.com/harness/subagents"
+  ]
+}

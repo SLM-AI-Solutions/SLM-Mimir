@@ -1,0 +1,4 @@
+interface:
+  display_name: "SLM Mimir"
+  short_description: "Seven-stage agent workflows with review evidence"
+  default_prompt: "Use $slm-mimir to build or audit this project through its seven-stage agent process."

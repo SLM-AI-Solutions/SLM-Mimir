@@ -1,0 +1,14 @@
+{
+  "name": "slm-mimir",
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "description": "Seven genuine Mimir specialists with one normal pass and source-bound evidence.",
+  "author": {
+    "name": "SLM-AI"
+  },
+  "$schema": "https://antigravity.google/schemas/v1/plugin.json",
+  "displayName": "SLM Mimir",
+  "suggestedPrompts": [
+    "Use SLM Mimir to build this project",
+    "Use SLM Mimir to audit this project"
+  ]
+}

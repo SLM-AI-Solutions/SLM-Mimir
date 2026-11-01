@@ -1,0 +1,31 @@
+{
+  "host": "cursor",
+  "surfaces": "Cursor native plugin-capable surfaces",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [
+    "agents/slm-mimir-engineering.md",
+    "agents/slm-mimir-mathematics.md",
+    "agents/slm-mimir-auditor.md",
+    "agents/slm-mimir-redteam.md",
+    "agents/slm-mimir-optimiser.md",
+    "agents/slm-mimir-verification.md",
+    "agents/slm-mimir-strategist.md"
+  ],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://cursor.com/docs/reference/plugins",
+    "https://cursor.com/docs/subagents",
+    "https://cursor.com/docs/plugins"
+  ]
+}

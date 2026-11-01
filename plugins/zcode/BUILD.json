@@ -1,0 +1,14 @@
+{
+  "schema": 1,
+  "product_id": "slm-mimir-plugin",
+  "product_name": "SLM Mimir",
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "build_number": 5,
+  "channel": "public-free-beta",
+  "artifact_date_utc": "2026-11-01T12:31:28.051227+00:00",
+  "status": "protected-beta-candidate; no model execution qualification",
+  "commercial_qualification": "not-applicable-free-beta",
+  "license_service": "not-required-for-this-beta",
+  "access_policy": "public-free-beta",
+  "distribution_edition": "obfuscated.1"
+}

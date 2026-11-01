@@ -1,0 +1,14 @@
+{
+  "name": "slm-mimir-multi-beta",
+  "owner": {
+    "name": "SLM-AI"
+  },
+  "plugins": [
+    {
+      "name": "slm-mimir",
+      "source": "./plugins/copilot",
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "description": "SLM Mimir seven-agent Copilot plugin."
+    }
+  ]
+}

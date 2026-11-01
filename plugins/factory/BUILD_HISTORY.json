@@ -1,0 +1,66 @@
+{
+  "schema": 1,
+  "product_id": "slm-mimir-plugin",
+  "builds": [
+    {
+      "build_number": 1,
+      "version": "0.1.0-beta.1",
+      "artifact_date_utc": "2026-11-01T09:07:47.756Z",
+      "status": "prepared-not-installed",
+      "changes": [
+        "First native plugin package with seven adapted specialist definitions and coordinator skill",
+        "Candidate-bound source/report evidence and recoverable sequential workflow validation",
+        "Fail-closed signed online entitlement verification foundation; service not provisioned"
+      ]
+    },
+    {
+      "build_number": 2,
+      "version": "0.1.0-beta.2",
+      "artifact_date_utc": "2026-11-01T09:14:35.26Z",
+      "status": "prepared-not-installed",
+      "previous_candidate_digest": "729738677cae21598ee075b0ca89f1f3070e6a0c89a27cf84324b23d1b5030bb",
+      "changes": [
+        "Revalidate source, reports and saved state after awaited entitlement checks before progress decisions",
+        "Verify signed receipt expiry using current clock after transport completes",
+        "Load packaged immutable build identity instead of duplicated runtime constants",
+        "Add asynchronous mutation and receipt-expiry regression witnesses"
+      ]
+    },
+    {
+      "build_number": 3,
+      "version": "0.1.0-beta.3",
+      "artifact_date_utc": "2026-11-01T09:28:14.537Z",
+      "status": "prepared-not-installed",
+      "previous_candidate_digest": "d0aaf1678388b25e00ea21674f46ba756d563586a2d5197c7c585fc284e9f33f",
+      "changes": [
+        "Reject report self-evidence through case-insensitive relative paths, canonical paths and actual file identities",
+        "Add actual Windows case-alias regression across all seven role reports, retaining successful separate-attachment control"
+      ]
+    },
+    {
+      "build_number": 4,
+      "version": "0.2.0-beta.4",
+      "artifact_date_utc": "2026-11-01T10:29:56.049Z",
+      "status": "prepared-not-installed",
+      "previous_candidate_digest": "eeeaf7bb3073edfeb3d26df078ffe593998b0023c52cb8cd807205a853568384",
+      "changes": [
+        "Public free beta: no subscription, invitation, activation server or billing dependency",
+        "Standalone native adapter packages for documented capable hosts",
+        "Preserve source/run/evidence integrity and all three repaired review defects",
+        "Prepare clean publication repository and feedback/release documentation"
+      ]
+    },
+    {
+      "build_number": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "artifact_date_utc": "2026-11-01T12:31:28.051227+00:00",
+      "changes": [
+        "Provider-native integrations researched from first-party documentation",
+        "Correct Copilot agent filenames and Agent Plugins namespace",
+        "OpenAI Work-compatible package without desktop-only restriction",
+        "Explicit pass-forward behavior; no artificial repair cycles",
+        "No fixed model allowlist; inherited host model and permissions"
+      ]
+    }
+  ]
+}

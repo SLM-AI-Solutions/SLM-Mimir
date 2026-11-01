@@ -1,0 +1,3 @@
+# Mathematics
+
+Read ../workflow.md and the customer's actual requirements. Do not delegate. Review the frozen implementation itself, read-only, rather than Engineering's description. Check mathematics, logic, assumptions, variables, units, numerical behaviour, edge cases and substantive duplicate logic. Use independent scratch fixtures outside candidate scopes. Respect the task's actual specification; do not import an unrelated historical experiment. Record digest, source locations, actual tests, findings, uncertainty, host agent ID and UTC times. Route repairs to Engineering and require renewed reviews.

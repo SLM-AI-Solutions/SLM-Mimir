@@ -1,0 +1,5 @@
+Suggested accurate wording:
+
+SLM Mimir public beta has provider-native integration packages for the interfaces listed in README.md. Built from official provider instructions, with completed package checks recorded in the compatibility report. Agents inherit the model and permissions selected in the host. No live Build 5 model runs were performed. Full seven-agent operation requires the host capabilities and prerequisites listed for that interface.
+
+Do not replace this with a claim that every LLM or every ordinary chat interface has been live-tested.

@@ -1,0 +1,169 @@
+{
+  "schema": 1,
+  "files": [
+    {
+      "path": ".zcode-plugin/marketplace.json",
+      "sha256": "8eac8c2e8d3fd5b19e7a4d46204bf1b8464038d7930447ece9039054a095b9a5"
+    },
+    {
+      "path": ".zcode-plugin/plugin.json",
+      "sha256": "e4b82c905ce4f7b03ba83046f8c341f23278dac41580037e87c1b7a75cec96e3"
+    },
+    {
+      "path": "BUILD.json",
+      "sha256": "4fc7e99382ed70b42e78da130254feb8aa609ac355b942c70e22e6b481385a39"
+    },
+    {
+      "path": "BUILD_HISTORY.json",
+      "sha256": "1286b8e8b2ed077b31dac91472394089ba2367ddbd7015c2bf01ca4a0a6b35ad"
+    },
+    {
+      "path": "INSTALL.txt",
+      "sha256": "39435578ac0033189ea51f10f4c33eebb52fba97d5280dfb7820d5857add35fb"
+    },
+    {
+      "path": "LICENSE",
+      "sha256": "bfd40b179e6179299f1e11ee0bf14d4bb9172aea98bdfed8e19a1ece1faaa43b"
+    },
+    {
+      "path": "PROTECTION_NOTICE.txt",
+      "sha256": "d78a0cd814088984ed725c4e90ca9f1981dd9024a524b81d40c363ebf356bdd4"
+    },
+    {
+      "path": "README.md",
+      "sha256": "39435578ac0033189ea51f10f4c33eebb52fba97d5280dfb7820d5857add35fb"
+    },
+    {
+      "path": "REQUIREMENTS.md",
+      "sha256": "72b24a1b7ab6f7bce5dbe17f5e9a44fd532dcd68f932748109d0185853225a27"
+    },
+    {
+      "path": "SLM_MIMIR_HOST.json",
+      "sha256": "31ad9d880f23b10af26388b1e252ffe3e428159e749a192983dae38994958ca9"
+    },
+    {
+      "path": "START_HERE.txt",
+      "sha256": "39435578ac0033189ea51f10f4c33eebb52fba97d5280dfb7820d5857add35fb"
+    },
+    {
+      "path": "agents/slm-mimir-auditor.md",
+      "sha256": "f2f40887d311c8d0d07d7f6be53b8cfd0b7dbe6f886a146696a0bf5898ec82d9"
+    },
+    {
+      "path": "agents/slm-mimir-engineering.md",
+      "sha256": "32dcff340dae73a8219045d724eeef2b02df48537537e79a590732befe75f7db"
+    },
+    {
+      "path": "agents/slm-mimir-mathematics.md",
+      "sha256": "6148265c91d095004e5d8aa15ce6d92ff3206e51560a19050b945a582c176c09"
+    },
+    {
+      "path": "agents/slm-mimir-optimiser.md",
+      "sha256": "869c3f63bc6c215617846e83ffb75651fac74a550a7c6ea604c6582ceb18c242"
+    },
+    {
+      "path": "agents/slm-mimir-redteam.md",
+      "sha256": "990752520b88c7b44d18b1f26f013e6ec901e42cc172674aa0aae41bbd258774"
+    },
+    {
+      "path": "agents/slm-mimir-strategist.md",
+      "sha256": "e0fd6c1956885a7fbf1d59e604d3b22fd63e8cd17153ec3f79da0ca04b80a529"
+    },
+    {
+      "path": "agents/slm-mimir-verification.md",
+      "sha256": "3423e06d5d45f7b6e808acd342d29c0ef97cab451f9522d6eb0cb40aca617792"
+    },
+    {
+      "path": "skills/slm-mimir/SKILL.md",
+      "sha256": "636a0edc063e1e198db1a7c5703e5fde2700a79fd8fbd54e38a24738051313b2"
+    },
+    {
+      "path": "skills/slm-mimir/agents/openai.yaml",
+      "sha256": "d293523c74f5b04b21d9108786e0b38e8f97b7b82674206a9ef3faf67c61b379"
+    },
+    {
+      "path": "skills/slm-mimir/references/host-adapter.md",
+      "sha256": "cd96da6cf73b962a8b73a0261dbb01e097706ee610f06223a7bf3d6c92f843c9"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/auditor.md",
+      "sha256": "ff35f94e6a952914e516ba0716e71264f57a649119cf0bb8c59e89ab0b294cda"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/engineering.md",
+      "sha256": "2ca06694461ec3ca6c8b77d4a691fb85db41179149e227e0776ddb85f93ffdba"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/mathematics.md",
+      "sha256": "9c2f56cea04a8f565e88f65ccf00bc9629c6ccd49bc4a0a2604b062347bfaaef"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/optimiser.md",
+      "sha256": "874083786a3ada1653150e4002a3c7c7f0098420c9277cf255ec56959af851ce"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/redteam.md",
+      "sha256": "4253a4dd4215c4965bbf0f50f709d06000c91af5becc360c7429a627b1112bdf"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/strategist.md",
+      "sha256": "a559f01bdfaf8757b0ff2ad5b01fdd715441d8371db6646f9077b67664d7104b"
+    },
+    {
+      "path": "skills/slm-mimir/references/roles/verification.md",
+      "sha256": "f852fcbbbb0cf5043337d052089f69f351bd138cb731665dbafb46853dacdf12"
+    },
+    {
+      "path": "skills/slm-mimir/references/workflow.md",
+      "sha256": "cc0a911b9551e17ffa7d3acc00396fa36fde89ce63f5e37019f318625854ae3e"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/2fbecac1c5e41594a672.bin",
+      "sha256": "d97f08ffb8d569d37266c4b520efcd752152545a44a8a9820284ecb3283e02c6"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/8df67c578ec31cd3c7d7.bin",
+      "sha256": "1ab1c7e6d1d4e8ea8beb21e5e030dfc9257398d8eb24a941586fd3f05dcf73ec"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/c4fdabeea6d268b64e4e.bin",
+      "sha256": "cbc5e54dfec08cd9c8899ff216d66236b711c79e963393760370b85b2689a57f"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/db49b6ba8ae20eaab0e9.bin",
+      "sha256": "f8d9351f719b2094da4a80d3b1fbb360fe2c91563be44e20d4ad2a1361a8287c"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/ff07947663a40d871dec.bin",
+      "sha256": "e7e026a6af3d7de72ee32b899f011f6aa8d40b69383b0f3d51f2730ffbe8291b"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/.mimir-core/runtime.mjs",
+      "sha256": "73c36b4e4b9c5e54a00e97684dd860f303ca05c6075991185fff9cce64e79a51"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/access.mjs",
+      "sha256": "ff99056d64028e29e33f93c94ed7a83195d7c29d9830e87bb451c8087cd30a72"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/build.mjs",
+      "sha256": "504c3f8f249f82ce1c5cfc6ca5c9e91461f18c0c079605d664c0cabc14d8bbff"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/evidence.mjs",
+      "sha256": "6da80eefc578bec9e75e91d4c5a0e5a33930f4b20a8253519b11e1a24fe0c0dc"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/license-config.json",
+      "sha256": "7b67f714b35bb1867d4ff09b65073c434a2c6b0914aad73270576e3aa646ca1d"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/license.mjs",
+      "sha256": "7bb6a173efbb699c0905f6c2fa4aa5e2394617aa8e6c9a782d059a422bd99a4a"
+    },
+    {
+      "path": "skills/slm-mimir/scripts/preflight.mjs",
+      "sha256": "0718c6371414c608e8bbad7daff96d790c4edc11817ccd1163ac5597c76e30e2"
+    }
+  ]
+}

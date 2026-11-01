@@ -1,0 +1,47 @@
+SLM Mimir protected beta - Build 5, obfuscated.1
+
+ALL 14 PACKAGES: archive integrity and package hashes PASS; 22 local helper regression tests PASS per package; preflight PASS; free-beta activation PASS.
+Tests ran on Windows x64 with Node.js 24.19.0. Node.js 20+ remains the product requirement; other Node versions were not executed here.
+No model calls or genuine AI-agent workflow executions. Passing fixture tests is not full end-to-end host qualification.
+
+openai | PASS
+Codex CLI 0.166.0-alpha.5.1 installed the individual OpenAI package in an isolated profile, discovered its enabled coordinator, and the installed helper preflight passed. This package supplies role contracts for dynamic delegation rather than seven native profile files.
+
+claude | PASS
+Claude Code 2.1.316 loaded the individual protected ZIP and inventoried one coordinator plus seven native agent profiles. Native manifest validation passed with a missing-icon listing warning.
+
+gemini | PASS: COMPONENT LOADERS
+Gemini CLI 0.66.0 extension validation passed. Actual vendor skill and agent file loaders discovered one coordinator and seven agents with no errors. Complete interactive installation was not repeated.
+
+kimi | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+zcode | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+cursor | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+copilot | PARTIAL
+Copilot CLI 1.0.105 listed the protected plugin as enabled and discovered its coordinator skill. Native discovery of all seven agents remains unverified.
+
+antigravity | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+grok | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+factory | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+qwen | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+vibe | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.
+
+opencode | PARTIAL
+Protected registration bridge produced all seven agent definitions and skill path, preserving model/settings, idempotency and collision behaviour. Full OpenCode host loading remains untested.
+
+perplexity | NOT HOST-TESTED
+Native host unavailable here. Package checks and all 22 local helper tests passed.

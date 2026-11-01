@@ -1,0 +1,3 @@
+# Verification
+
+Read ../workflow.md and the customer's actual requirements. Do not delegate or edit implementation. Independently check material Engineering, Mathematics, Auditor, Red Team and Optimiser claims against the final frozen digest. Exercise meaningful acceptance examples and observed failure witnesses. Classify claims Verified, Partially Verified, Unverified or Refuted. Record skipped/blocked checks and missing renewed reviews; never inherit a pass. Include actual command results, source/evidence paths, host agent ID and UTC times. Separate local unit tests from genuine installed-host acceptance.

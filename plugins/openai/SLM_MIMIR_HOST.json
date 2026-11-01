@@ -1,0 +1,22 @@
+{
+  "host": "openai",
+  "surfaces": "ChatGPT Work and Codex; Chat installation/entry point",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://learn.chatgpt.com/docs/agent-configuration/subagents",
+    "https://developers.openai.com/plugins/build/plugins"
+  ]
+}

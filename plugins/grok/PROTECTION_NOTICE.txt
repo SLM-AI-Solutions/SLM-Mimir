@@ -1,0 +1,7 @@
+SLM Mimir - protected beta edition 1
+
+Install normally using the package for your AI application. No password is required.
+Executable helper modules are identifier-obfuscated and stored as authenticated encrypted payloads with local automatic loading. The loader itself is identifier-obfuscated. The OpenCode registration bridge is identifier-obfuscated and retains its native module shape.
+Original program source, original variable names/comments, development tests, source maps and build tooling are not distributed. AI skill instructions, role descriptions and host-required manifests remain readable so the host can discover and use them.
+This is resistance to casual inspection and reuse, not a guarantee against reverse engineering or copying. Local unlocking material necessarily ships with the runtime. Nothing is sent to an obfuscation service.
+No subscription, billing or online licensing was introduced. Original free-beta terms remain in effect.

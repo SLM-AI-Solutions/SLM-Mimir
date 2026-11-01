@@ -1,0 +1,7 @@
+{
+  "schema": 1,
+  "audience": "slm-mimir-plugin",
+  "endpoint": null,
+  "publicKeys": {},
+  "maxReceiptSeconds": 300
+}

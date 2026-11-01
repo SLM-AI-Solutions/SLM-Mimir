@@ -1,0 +1,3 @@
+# SLM Mimir public free beta
+
+Seven genuine sequential specialists, selected through the host's native agent support. Use the customer's existing account, selected model and permissions. No model allowlist, Mimir account, payment, invitation or external licence service. Node.js 20+ and project/evidence access are required for the bundled helper. Normal operation is one pass; seven passes completes the task. Repair only for a real blocking finding. No artificial defects or compulsory recovery exercises. Each interface must expose real isolated agent execution and tools; a chat or connector that lacks them must not simulate the workflow.

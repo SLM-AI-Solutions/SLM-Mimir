@@ -1,0 +1,29 @@
+{
+  "host": "vibe",
+  "surfaces": "Mistral Vibe Code",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [
+    "ai.mistral.vibe/agents/slm-mimir-engineering.toml",
+    "ai.mistral.vibe/agents/slm-mimir-mathematics.toml",
+    "ai.mistral.vibe/agents/slm-mimir-auditor.toml",
+    "ai.mistral.vibe/agents/slm-mimir-redteam.toml",
+    "ai.mistral.vibe/agents/slm-mimir-optimiser.toml",
+    "ai.mistral.vibe/agents/slm-mimir-verification.toml",
+    "ai.mistral.vibe/agents/slm-mimir-strategist.toml"
+  ],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://github.com/mistralai/mistral-vibe/blob/main/vibe/plugins/builtins/vibe/skills/vibe/SKILL.md"
+  ]
+}

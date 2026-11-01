@@ -1,0 +1,32 @@
+{
+  "host": "kimi",
+  "surfaces": "Kimi Work and current Kimi Code Desktop/CLI",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [
+    "agents/slm-mimir-engineering.md",
+    "agents/slm-mimir-mathematics.md",
+    "agents/slm-mimir-auditor.md",
+    "agents/slm-mimir-redteam.md",
+    "agents/slm-mimir-optimiser.md",
+    "agents/slm-mimir-verification.md",
+    "agents/slm-mimir-strategist.md"
+  ],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html",
+    "https://www.kimi.com/code/docs/en/kimi-code-cli/customization/agents.html",
+    "https://www.kimi.com/en/help/plugins-and-skills/create",
+    "https://www.kimi.com/en/help/plugins-and-skills/overview"
+  ]
+}

@@ -1,0 +1,8 @@
+SLM Mimir - Build 5 protected edition 1
+
+1. Extract the complete download.
+2. Open START_HERE.html.
+3. Choose the AI application you use.
+4. Install its matching plugin following the included instructions.
+
+No password entry, separate Mimir account, paid API call or provider-key setup is required by Mimir. Existing host requirements and permissions still apply.

@@ -1,0 +1,168 @@
+{
+  "product": "SLM Mimir",
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "build": 5,
+  "access": "public-free-beta",
+  "sourcePolicy": "Protected runtime modules and host-readable instructions; original helper-program source and private build evidence excluded.",
+  "validationScope": "308 local helper regression tests passed (22 per integration); all 14 preflight and free-beta activation checks passed. Native loading scope is recorded in COMPATIBILITY.txt. No real AI tasks or model calls.",
+  "modelExecution": "No Build5 live model/Mimir workflow runs performed, per owner instruction.",
+  "published": false,
+  "distributionEdition": "obfuscated.1",
+  "packages": [
+    {
+      "integration": "openai",
+      "interfaces": "ChatGPT Work and Codex; Chat installation/entry point",
+      "archive": "packages/slm-mimir-openai-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "f325de5a47f351b1c64b958f23a0124743e26a8995ecc3b4327f89163293ddbd",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/openai",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "claude",
+      "interfaces": "Claude Cowork and Claude Code; Chat installation/entry point",
+      "archive": "packages/slm-mimir-claude-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "165cc147e1704c1d4a6259d3c8a08a256d6f413aaba7fe4bd730433d27fa3418",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/claude",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "gemini",
+      "interfaces": "Gemini CLI",
+      "archive": "packages/slm-mimir-gemini-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "cb9cf3286c0f491c195e18ca9350b015c895a5da0e7bc9e943f0a0aa887fa518",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/gemini",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "kimi",
+      "interfaces": "Kimi Work and current Kimi Code Desktop/CLI",
+      "archive": "packages/slm-mimir-kimi-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "d1891b34c5cf80efdc88cf8612e262561adb353b608a9cb73351b40b9fd5d6f8",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/kimi",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "zcode",
+      "interfaces": "ZCode / eligible GLM models",
+      "archive": "packages/slm-mimir-zcode-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "e9d768b645270b1b7a1268f65e3bdbf7531872c2e060db5454f08ebe550396a7",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/zcode",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "cursor",
+      "interfaces": "Cursor native plugin-capable surfaces",
+      "archive": "packages/slm-mimir-cursor-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "a4cb6c6b7c34f9f3613414be6f6de5ecb41105fccaaf753f9312d91f5d07ad0a",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/cursor",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "copilot",
+      "interfaces": "GitHub Copilot CLI and VS Code compatible agent harnesses",
+      "archive": "packages/slm-mimir-copilot-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "cddaadf849ef3bbee2be97f9fc7f431861d4d79d6563a055f175abd455040416",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/copilot",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "antigravity",
+      "interfaces": "Google Antigravity App/CLI/plugin-capable IDE",
+      "archive": "packages/slm-mimir-antigravity-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "3c46b95a8e03f78b5b55f1bf35b8ca982b375d994a712fce991311b75c9c30f2",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/antigravity",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "grok",
+      "interfaces": "Grok Build",
+      "archive": "packages/slm-mimir-grok-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "85097e60af98420a59a6dc7200eab8a0fa00cb24901d386ddac64f971da76ba9",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/grok",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "factory",
+      "interfaces": "Factory Droid",
+      "archive": "packages/slm-mimir-factory-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "e05f39aeb64e488c318fecaf13d78c2a4851c67c06450a0a1a797cee3c1ada1e",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/factory",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "qwen",
+      "interfaces": "Qwen Code",
+      "archive": "packages/slm-mimir-qwen-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "f102b9ad05a54958d1c0e04df1585cd8229f17b136ccef8db157369c14a80186",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/qwen",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "vibe",
+      "interfaces": "Mistral Vibe Code",
+      "archive": "packages/slm-mimir-vibe-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "6bcd5bc90be11e3cf81256e253a2d80a62f51cf5480747a4e8fd5d4f69729848",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/vibe",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "opencode",
+      "interfaces": "OpenCode with its configured providers/models",
+      "archive": "packages/slm-mimir-opencode-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "99bbc4de75fc36210c79193dfaef3904151d6c890a9069e3162725c442080cfa",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/opencode",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    },
+    {
+      "integration": "perplexity",
+      "interfaces": "Perplexity Computer custom Skills",
+      "archive": "packages/slm-mimir-perplexity-0.2.0-beta.5-obfuscated.1-build-5.zip",
+      "sha256": "8805942c12acdf546a151ea092a936a6a9fe1286f4057a0ac8082cf711d12702",
+      "build": 5,
+      "version": "0.2.0-beta.5-obfuscated.1",
+      "sourceFolder": "plugins/perplexity",
+      "liveModelRun": "not performed per owner instruction",
+      "distributionEdition": "obfuscated.1"
+    }
+  ],
+  "protection": "Identifier obfuscation and authenticated encrypted local helper payloads with automatic unlocking; readable host instructions retained. Original helper source and source maps excluded. Local key material is recoverable; this is resistance to casual copying."
+}

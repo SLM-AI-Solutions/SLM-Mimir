@@ -1,0 +1,11 @@
+import {load as _0x18fd3dccb961l} from './.mimir-core/runtime.mjs';
+const _0x18fd3dccb961=await _0x18fd3dccb961l(import.meta.url,"./.mimir-core/ff07947663a40d871dec.bin","kTsL07UIQtER1nh93E+GP341WOC5QCNrUsFQtxO5xnU=","g5X24FLBp1H1SF198MgmNP19h4GVlpcAT/3ztLPTpvY=");
+export const ROLES=_0x18fd3dccb961.ROLES;
+export const relative=_0x18fd3dccb961.relative;
+export const freeze=_0x18fd3dccb961.freeze;
+export const verifyCandidate=_0x18fd3dccb961.verifyCandidate;
+export const validateState=_0x18fd3dccb961.validateState;
+export const initialize=_0x18fd3dccb961.initialize;
+export const record=_0x18fd3dccb961.record;
+export const status=_0x18fd3dccb961.status;
+export const main=_0x18fd3dccb961.main;

@@ -1,0 +1,1 @@
+When the user invokes SLM Mimir, load the bundled slm-mimir skill through the native skill tool. Follow its returned installed location, workflow and seven registered specialist profiles. Use native isolated agents sequentially, inherit the selected model, and finish after seven passes. Do not execute the workflow for ordinary conversation or fabricate failures.

@@ -1,0 +1,283 @@
+SLM MIMIR — PROVIDER AND INTERFACE SUPPORT
+Build 5 | 0.2.0-beta.5-obfuscated.1
+
+Every capable interface is in scope; this research registry is extensible and not a hard-coded LLM allowlist.
+Provider statements and non-model native/schema checks. No Build5 Mimir workflow or model task was run, per owner instruction.
+
+Each entry below names the actual interface, not just its underlying LLM.
+
+OpenAI — ChatGPT Work
+  Native subagents and plugin skills documented; Work executes in its hosted environment.
+  Package: openai
+  Install: Install through native Plugins controls or workspace sharing. The package does not set a desktop-only executor flag.
+  Requirements: Eligible Work account; genuine delegation and file/command tools; Node20+ for helper.
+  Source: https://learn.chatgpt.com/docs/agent-configuration/subagents
+  Source: https://developers.openai.com/plugins/build/plugins
+  Source: https://help.openai.com/en/articles/20001256-plugins-in-chatgpt
+
+OpenAI — Codex Desktop
+  Native plugin skills and genuine delegated agents documented.
+  Package: openai
+  Install: Native Plugins UI or supplied local/repository marketplace; start a fresh session. All seven role contracts are supplied by the coordinator.
+  Requirements: Existing authenticated host and authorised project/commands; Node20+.
+  Source: https://learn.chatgpt.com/docs/agent-configuration/subagents
+  Source: https://developers.openai.com/plugins/build/plugins
+  Source: https://help.openai.com/en/articles/20001256-plugins-in-chatgpt
+
+OpenAI — Codex CLI
+  Native plugin skills and genuine delegated agents documented.
+  Package: openai
+  Install: Native Plugins UI or supplied local/repository marketplace; start a fresh session. All seven role contracts are supplied by the coordinator.
+  Requirements: Existing authenticated host and authorised project/commands; Node20+.
+  Source: https://learn.chatgpt.com/docs/agent-configuration/subagents
+  Source: https://developers.openai.com/plugins/build/plugins
+  Source: https://help.openai.com/en/articles/20001256-plugins-in-chatgpt
+
+OpenAI — Codex IDE integration
+  Native plugin skills and genuine delegated agents documented.
+  Package: openai
+  Install: Native Plugins UI or supplied local/repository marketplace; start a fresh session. All seven role contracts are supplied by the coordinator.
+  Requirements: Existing authenticated host and authorised project/commands; Node20+.
+  Source: https://learn.chatgpt.com/docs/agent-configuration/subagents
+  Source: https://developers.openai.com/plugins/build/plugins
+  Source: https://help.openai.com/en/articles/20001256-plugins-in-chatgpt
+
+OpenAI — ChatGPT Chat (web/desktop/mobile)
+  Plugin installation and skills documented; full Mimir execution requires a session exposing genuine agents. Ordinary Chat is not claimed as seven-agent capable.
+  Package: openai
+  Install: Installable plugin entry point; the coordinator reports missing delegation capability rather than simulating agents.
+  Requirements: Use ChatGPT Work for the documented full native-agent execution route.
+  Source: https://learn.chatgpt.com/docs/agent-configuration/subagents
+  Source: https://developers.openai.com/plugins/build/plugins
+  Source: https://help.openai.com/en/articles/20001256-plugins-in-chatgpt
+
+Anthropic — Claude Cowork
+  Plugin skills and subagents explicitly supported.
+  Package: claude
+  Install: Plugins -> Add -> upload ZIP/add marketplace. Code can install from the supplied native marketplace. Seven profiles are bundled.
+  Requirements: Compatible paid account and permissions; Node20+ in the execution environment. Account plugin sync to Code needs 2.1.273+.
+  Source: https://support.claude.com/en/articles/13837440-use-plugins-in-claude
+  Source: https://code.claude.com/docs/en/plugins/components
+
+Anthropic — Claude Code
+  Plugin skills and subagents explicitly supported.
+  Package: claude
+  Install: Plugins -> Add -> upload ZIP/add marketplace. Code can install from the supplied native marketplace. Seven profiles are bundled.
+  Requirements: Compatible paid account and permissions; Node20+ in the execution environment. Account plugin sync to Code needs 2.1.273+.
+  Source: https://support.claude.com/en/articles/13837440-use-plugins-in-claude
+  Source: https://code.claude.com/docs/en/plugins/components
+
+Anthropic — Claude Chat (web/Desktop Chat/mobile)
+  Plugins/skills install, but Anthropic explicitly says plugin subagents do not run in Chat.
+  Package: claude
+  Install: The same account package supplies the entry point; Chat must not pretend to run seven independent agents.
+  Requirements: Full Mimir execution uses Cowork or Claude Code.
+  Source: https://support.claude.com/en/articles/13837440-use-plugins-in-claude
+  Source: https://code.claude.com/docs/en/plugins/components
+
+Google — Gemini CLI
+  Extension skills and agents/ definitions supported; subagents preview, enabled by default in current documentation.
+  Package: gemini
+  Install: gemini extensions install <extracted-directory>; restart. Profiles are auto-discovered.
+  Requirements: Extension/agent functionality must not be disabled by organisation policy; authenticated CLI and Node20+.
+  Source: https://geminicli.com/docs/extensions/reference/
+  Source: https://geminicli.com/docs/core/subagents/
+
+Google — Gemini ordinary web/mobile app
+  No complete custom seven-agent plugin route confirmed by this research; Gemini CLI support is not proof of app support.
+  Package: No full native package claimed yet
+  Requirements: Keep under investigation; no simulated seven-agent claim.
+  Source: https://geminicli.com/docs/extensions/reference/
+
+Google — Antigravity App
+  Native plugin agents/ Markdown and invoke_subagent capability documented.
+  Package: antigravity
+  Install: App Customizations plugin controls, or agy plugin install <extracted-directory>; seven profiles auto-discovered.
+  Requirements: Current plugin-capable surface, account and authorised tools.
+  Source: https://antigravity.google/docs/build-plugins/
+  Source: https://antigravity.google/docs/subagents/
+
+Google — Antigravity CLI
+  Native plugin agents/ Markdown and invoke_subagent capability documented.
+  Package: antigravity
+  Install: App Customizations plugin controls, or agy plugin install <extracted-directory>; seven profiles auto-discovered.
+  Requirements: Current plugin-capable surface, account and authorised tools.
+  Source: https://antigravity.google/docs/build-plugins/
+  Source: https://antigravity.google/docs/subagents/
+
+Google — Antigravity plugin-capable IDE surfaces
+  Native plugin agents/ Markdown and invoke_subagent capability documented.
+  Package: antigravity
+  Install: App Customizations plugin controls, or agy plugin install <extracted-directory>; seven profiles auto-discovered.
+  Requirements: Current plugin-capable surface, account and authorised tools.
+  Source: https://antigravity.google/docs/build-plugins/
+  Source: https://antigravity.google/docs/subagents/
+
+Moonshot — Kimi Code Desktop
+  Native kimi.plugin.json supports agents and startup-skill registration.
+  Package: kimi
+  Install: Settings -> Plugins custom source, or /plugins install <path-or-URL>; new session/reload loads profiles automatically.
+  Requirements: Current Kimi Code, not the retired toolkit-only kimi-cli format; Node20+.
+  Source: https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html
+  Source: https://www.kimi.com/code/docs/en/kimi-code-cli/customization/agents.html
+
+Moonshot — Kimi Code CLI
+  Native kimi.plugin.json supports agents and startup-skill registration.
+  Package: kimi
+  Install: Settings -> Plugins custom source, or /plugins install <path-or-URL>; new session/reload loads profiles automatically.
+  Requirements: Current Kimi Code, not the retired toolkit-only kimi-cli format; Node20+.
+  Source: https://www.kimi.com/code/docs/en/kimi-code-cli/customization/plugins.html
+  Source: https://www.kimi.com/code/docs/en/kimi-code-cli/customization/agents.html
+
+Moonshot — Kimi Work
+  Official Work guide recognises native kimi.plugin.json and full plugin components.
+  Package: kimi
+  Install: Use the official Custom plugin / built-in Plugin Builder import-registration route for the native package, then Plugins -> Personal -> install. No build-time model call was made.
+  Requirements: Latest Work app and native plugin registration; packaged code/role contents should remain unchanged.
+  Source: https://www.kimi.com/en/help/plugins-and-skills/create
+  Source: https://www.kimi.com/en/help/plugins-and-skills/overview
+
+Moonshot — Kimi web K3/K3 Swarm, Deep Research/Build/PPT
+  Official guide confirms MCP/Skills on web, with fuller components in Work/Code; precise user-controlled seven-agent route remains unconfirmed.
+  Package: No full native package claimed yet
+  Requirements: No inference that a Swarm feature alone registers the seven Mimir profiles.
+  Source: https://www.kimi.com/en/help/plugins-and-skills/overview
+
+Moonshot — Kimi Plus / Kimi Claw plugin installation
+  The current overview explicitly says plugins are not yet supported in these conversations.
+  Package: No full native package claimed yet
+  Requirements: Separate Skill capabilities do not automatically prove full Mimir compatibility.
+  Source: https://www.kimi.com/en/help/plugins-and-skills/overview
+
+Z.ai — ZCode with its configured GLM/other supported models
+  Native plugin skills and agents documented; custom-agent rollout is beta.
+  Package: zcode
+  Install: Settings -> Plugins -> Create -> Add marketplace; install supplied plugin. No manual seven-role creation.
+  Requirements: Agent capability must be available in the installed release; host/account tool permissions apply.
+  Source: https://zcode.z.ai/en/docs/plugin
+  Source: https://zcode.z.ai/en/docs/subagents
+
+Z.ai — Ordinary Z.ai chat
+  Full seven-agent native-plugin mechanism not confirmed by this research.
+  Package: No full native package claimed yet
+  Requirements: ZCode compatibility is not a blanket Z.ai web-chat claim.
+  Source: https://zcode.z.ai/en/docs/plugin
+
+Anysphere — Cursor native plugin-capable surfaces
+  Cursor-specific .cursor-plugin format supports agents; generic portable skill/MCP format alone does not.
+  Package: cursor
+  Install: Customize -> Import from Disk, or documented ~/.cursor/plugins/local/slm-mimir location then reload. Seven profiles are bundled.
+  Requirements: Local plugin imports must be allowed; Enterprise can disable them. Public directory review/licensing is separate.
+  Source: https://cursor.com/docs/reference/plugins
+  Source: https://cursor.com/docs/subagents
+  Source: https://cursor.com/docs/plugins
+
+GitHub — Copilot CLI
+  Agent Plugins manifest and com.github.copilot/agents/*.agent.md supported.
+  Package: copilot
+  Install: copilot plugin install <extracted-directory>; fresh session.
+  Requirements: Existing Copilot access and enabled organisation policy.
+  Source: https://docs.github.com/en/copilot/reference/copilot-cli-reference/cli-plugin-reference
+
+Microsoft / GitHub — VS Code compatible agent harnesses
+  VS Code documents the same Agent Plugins namespace and source-folder installation.
+  Package: copilot
+  Install: Chat: Install Plugin from Source -> choose extracted directory; or Agent Customizations -> Plugins -> add (+) -> local path.
+  Requirements: Selected harness and organisation policy must permit plugins and genuine subagents.
+  Source: https://code.visualstudio.com/docs/agents/reference/agent-plugin-reference
+  Source: https://code.visualstudio.com/docs/agent-customization/agent-plugins
+
+GitHub — Copilot app
+  Agent Plugins support is documented across Copilot clients; app-specific seven-agent execution was not exercised.
+  Package: copilot
+  Requirements: Use native plugin controls available to the selected app/account; no runtime equivalence claim from CLI alone.
+  Source: https://docs.github.com/en/copilot/concepts/customizations/plugins
+
+Microsoft — Microsoft 365 Copilot Cowork
+  Plugin ZIP upload is supported, but official conversion documentation says agents/ subagents are not converted/supported in that manifest. Full Mimir delegation is not confirmed.
+  Package: No full native package claimed yet
+  Requirements: Do not label a skills/connectors-only conversion as the complete seven-agent Mimir plugin. Privacy/terms URLs and tenant controls also apply.
+  Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/cowork-plugin-development
+  Source: https://learn.microsoft.com/en-us/microsoft-365/copilot/cowork/cowork-plugins
+
+xAI — Grok Build
+  Official docs state zero-configuration Claude plugin/agent compatibility and genuine independent child sessions.
+  Package: grok
+  Install: Native /plugins manager with compatible catalog, or documented .grok/plugins/ discovery directory.
+  Requirements: Build surface with plugins/subagents allowed; Node20+ and project access.
+  Source: https://docs.x.ai/build/features/skills-plugins-marketplaces
+  Source: https://docs.x.ai/build/features/subagents
+
+xAI — Ordinary Grok chat
+  Grok Build support does not confirm the same full seven-agent plugin API in ordinary chat.
+  Package: No full native package claimed yet
+  Source: https://docs.x.ai/build/features/skills-plugins-marketplaces
+
+Factory — Droid
+  Native .factory-plugin packages use task-callable droids/ profiles.
+  Package: factory
+  Install: droid plugin marketplace add <catalog-root>; droid plugin install slm-mimir@slm-mimir-multi-beta --scope user.
+  Requirements: Native marketplace wrapper required; a bare plugin folder is not a marketplace.
+  Source: https://docs.factory.com/harness/plugins
+  Source: https://docs.factory.com/harness/subagents
+
+Alibaba — Qwen Code
+  qwen-extension.json declares context, skills and automatically discovered native subagents.
+  Package: qwen
+  Install: qwen extensions install <extracted-directory>; fresh session.
+  Requirements: Existing Qwen Code authentication/model; Node20+.
+  Source: https://qwenlm.github.io/qwen-code-docs/en/users/extension/introduction/
+  Source: https://github.com/QwenLM/qwen-code/blob/main/docs/users/features/sub-agents.md
+
+Alibaba — Ordinary Qwen chat
+  Full native plugin/agent route not confirmed by this research; Code support is a distinct interface.
+  Package: No full native package claimed yet
+  Source: https://qwenlm.github.io/qwen-code-docs/en/users/extension/introduction/
+  Source: https://github.com/QwenLM/qwen-code/blob/main/docs/users/features/sub-agents.md
+
+Mistral — Vibe Code
+  Native Agent Plugins extension ai.mistral.vibe enables TOML agents; foreign-format adaptation does not carry agents.
+  Package: vibe
+  Install: Copy native plugin into ~/.vibe/plugins/ or trusted project .vibe/plugins/; restart or /reload-plugins.
+  Requirements: Current native Vibe plugin support and authorised tools; inherit active model.
+  Source: https://github.com/mistralai/mistral-vibe/blob/main/vibe/plugins/builtins/vibe/skills/vibe/SKILL.md
+
+Mistral — Le Chat / Studio connectors
+  MCP/custom connectors documented; this alone does not confirm the full native seven-agent plugin route.
+  Package: No full native package claimed yet
+  Source: https://docs.mistral.ai/studio/connectors
+
+Perplexity — Computer
+  Official sources document native subagents and custom Skill ZIP uploads with SKILL.md at the root.
+  Package: perplexity
+  Install: Computer -> Skills -> Create skill -> Upload a skill; native ZIP below 10 MB, no manual role setup.
+  Requirements: Computer-enabled account; genuine delegation, filesystem/commands and Node20+ must be exposed in that session. Exact seven-stage control was not live-tested.
+  Source: https://www.perplexity.ai/en-GB/products/computer
+  Source: https://www.perplexity.ai/en-GB/hub/workshops/perplexity-computer-for-buyside-professionals
+
+Perplexity — Ordinary Perplexity Chat
+  Computer Skill/subagent support is not a full ordinary-chat compatibility claim.
+  Package: No full native package claimed yet
+  Source: https://www.perplexity.ai/en-GB/products/computer
+
+DeepSeek — Native web chat / API
+  API tool calls are documented, but not a native complete Mimir plugin installation in its chat app.
+  Package: No full native package claimed yet
+  Requirements: May be used through a separately capable model host such as OpenCode where permitted; this is not a native DeepSeek-chat plugin claim.
+  Source: https://api-docs.deepseek.com/guides/tool_calls/
+
+OpenCode ecosystem — OpenCode with any host-supported configured provider/model
+  Native local JavaScript plugins and config hooks register agents and skill paths.
+  Package: opencode
+  Install: Copy supplied .opencode directory into the authorised project without overwriting existing files. The hook auto-registers seven definitions and bundled skill.
+  Requirements: Keep existing host/provider authentication and selected model; no Mimir model whitelist or extra provider key.
+  Source: https://opencode.ai/docs/plugins/
+  Source: https://opencode.ai/docs/agents/
+  Source: https://opencode.ai/config.json
+
+Other / future providers — Any additional plugin-capable interface
+  Open-ended eligibility, not excluded by a fixed company/model list.
+  Package: No full native package claimed yet
+  Requirements: Add the native format when official documentation establishes plugin loading, genuine isolated agents and required tools; a portable skills manifest alone does not prove those capabilities.
+  Source: https://agent-plugins.org/
+

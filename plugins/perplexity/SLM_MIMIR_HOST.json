@@ -1,0 +1,23 @@
+{
+  "host": "perplexity",
+  "surfaces": "Perplexity Computer custom Skills",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "registration": "native Computer delegation with seven bundled role contracts",
+  "modelPolicy": "inherit host selection/routing; no Mimir model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://www.perplexity.ai/en-GB/products/computer",
+    "https://www.perplexity.ai/en-GB/hub/workshops/perplexity-computer-for-buyside-professionals"
+  ]
+}

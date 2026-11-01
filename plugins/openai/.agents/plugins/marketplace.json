@@ -1,0 +1,20 @@
+{
+  "name": "slm-mimir-multi-beta",
+  "owner": {
+    "name": "SLM-AI"
+  },
+  "plugins": [
+    {
+      "name": "slm-mimir",
+      "source": {
+        "source": "local",
+        "path": "."
+      },
+      "policy": {
+        "installation": "AVAILABLE",
+        "authentication": "ON_INSTALL"
+      },
+      "category": "Productivity"
+    }
+  ]
+}

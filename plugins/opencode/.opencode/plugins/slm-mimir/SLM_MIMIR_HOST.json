@@ -1,0 +1,23 @@
+{
+  "host": "opencode",
+  "surfaces": "OpenCode with its configured providers/models",
+  "build": 5,
+  "version": "0.2.0-beta.5-obfuscated.1",
+  "nativeAgentFiles": [],
+  "roles": [
+    "engineering",
+    "mathematics",
+    "auditor",
+    "redteam",
+    "optimiser",
+    "verification",
+    "strategist"
+  ],
+  "modelPolicy": "inherit; no model allowlist",
+  "runtimeExecution": "not performed per owner instruction",
+  "officialSources": [
+    "https://opencode.ai/docs/plugins/",
+    "https://opencode.ai/docs/agents/",
+    "https://opencode.ai/config.json"
+  ]
+}
